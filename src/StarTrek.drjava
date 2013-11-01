@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20120818-r5686">
+  <project autorefresh="false" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="client/JavaWorld.java" package="src.client" timestamp="10-Oct-2013 14:12:41">
+        <select from="5000" to="5307"/>
+        <scroll column="2740" row="0"/>
+      </file>
+      <file name="server/HelperWorker.java" package="src.server" timestamp="10-Oct-2013 14:12:41">
+        <select from="5000" to="5307"/>
+        <scroll column="2740" row="0"/>
+      </file>
+      <file name="client/properties/Warrior.java" package="src.client.properties" timestamp="09-Oct-2013 15:02:11">
+        <select from="5000" to="5307"/>
+        <scroll column="2740" row="0"/>
+      </file>
+      <file name="client/properties/ShipCreator.java" package="src.client.properties" timestamp="09-Oct-2013 15:01:59">
+        <select from="5000" to="5307"/>
+        <scroll column="2740" row="0"/>
+      </file>
+      <file name="client/properties/Moveable.java" package="src.client.properties" timestamp="09-Oct-2013 15:01:44">
+        <select from="5000" to="5307"/>
+        <scroll column="2740" row="0"/>
+      </file>
+      <file name="client/properties/Humanoid.java" package="src.client.properties" timestamp="09-Oct-2013 15:01:30">
+        <select from="5000" to="5307"/>
+        <scroll column="2740" row="0"/>
+      </file>
+      <file name="client/properties/Cybernetic.java" package="src.client.properties" timestamp="09-Oct-2013 15:01:17">
+        <select from="5000" to="5307"/>
+        <scroll column="2740" row="0"/>
+      </file>
+      <file name="client/universe/Quadrant.java" package="src.client.universe" timestamp="09-Oct-2013 15:04:08">
+        <select from="5000" to="5307"/>
+        <scroll column="2740" row="0"/>
+      </file>
+      <file name="client/hero/Borg.java" package="src.client.hero" timestamp="09-Oct-2013 15:06:40">
+        <select from="5000" to="5307"/>
+        <scroll column="2740" row="0"/>
+      </file>
+      <file name="client/hero/Hero.java" package="src.client.hero" timestamp="09-Oct-2013 15:06:49">
+        <select from="5000" to="5307"/>
+        <scroll column="2740" row="0"/>
+      </file>
+      <file name="client/hero/Klingon.java" package="src.client.hero" timestamp="09-Oct-2013 15:06:55">
+        <select from="5000" to="5307"/>
+        <scroll column="2740" row="0"/>
+      </file>
+      <file name="client/hero/Romulan.java" package="src.client.hero" timestamp="09-Oct-2013 15:06:59">
+        <select from="5000" to="5307"/>
+        <scroll column="2740" row="0"/>
+      </file>
+      <file name="client/hero/Vulcan.java" package="src.client.hero" timestamp="09-Oct-2013 15:07:07">
+        <select from="5000" to="5307"/>
+        <scroll column="2740" row="0"/>
+      </file>
+      <file name="client/ship/BorgShip.java" package="src.client.ship" timestamp="09-Oct-2013 15:09:15">
+        <select from="5000" to="5307"/>
+        <scroll column="2740" row="0"/>
+      </file>
+      <file name="client/ship/KlingonShip.java" package="src.client.ship" timestamp="09-Oct-2013 15:09:18">
+        <select from="5000" to="5307"/>
+        <scroll column="2740" row="0"/>
+      </file>
+      <file name="client/ship/RomulanShip.java" package="src.client.ship" timestamp="09-Oct-2013 15:09:31">
+        <select from="5000" to="5307"/>
+        <scroll column="2740" row="0"/>
+      </file>
+      <file name="client/ship/VulcanShip.java" package="src.client.ship" timestamp="09-Oct-2013 15:09:40">
+        <select from="5000" to="5307"/>
+        <scroll column="2740" row="0"/>
+      </file>
+      <file name="server/Helper.java" package="src.server" timestamp="09-Oct-2013 19:15:55">
+        <select from="5000" to="5307"/>
+        <scroll column="2740" row="0"/>
+      </file>
+      <file name="client/universe/Universe.java" package="src.client.universe" timestamp="10-Oct-2013 11:01:20">
+        <select from="5000" to="5307"/>
+        <scroll column="2740" row="0"/>
+      </file>
+      <file name="client/ship/Ship.java" package="src.client.ship" timestamp="10-Oct-2013 11:31:39">
+        <select from="5000" to="5307"/>
+        <scroll column="2740" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed>
+      <path name="./[ Source Files ]/client/hero/"/>
+      <path name="./[ Source Files ]/client/properties/"/>
+    </collapsed>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
